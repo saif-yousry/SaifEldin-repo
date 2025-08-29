@@ -1,0 +1,12 @@
+.door-control {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid #333;
+  text-align: center;
+}
+
+.door-control button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

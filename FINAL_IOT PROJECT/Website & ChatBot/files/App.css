@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f1f3f6;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.App h1 {
+  margin-bottom: 30px;
+  color: #343a40;
+}

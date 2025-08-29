@@ -1,0 +1,12 @@
+.history-container {
+  padding: 15px;
+  margin: 20px;
+  border: 1px solid #888;
+  border-radius: 8px;
+  background: #f3e5f5;
+}
+
+.history-container ul {
+  list-style: none;
+  padding: 0;
+}
